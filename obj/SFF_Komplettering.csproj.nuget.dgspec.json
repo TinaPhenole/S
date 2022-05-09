@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj": {}
+    "D:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj": {}
   },
   "projects": {
-    "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj": {
+    "D:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj",
+        "projectUniqueName": "D:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj",
         "projectName": "SFF_Komplettering",
-        "projectPath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj",
+        "projectPath": "D:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\SFF_Komplettering.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\obj\\",
+        "outputPath": "D:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqLite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
