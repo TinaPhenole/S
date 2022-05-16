@@ -1,13 +1,21 @@
+using System.Runtime.Serialization;
 namespace SFF_Komplettering
 {
     public enum Genre
     {
-        Action = 1,
-        Horror = 2,
-        Comedy = 3,
-        Drama = 4,
-        Historic = 5,
-        Classic = 6,
-        TrueStory = 7
+        [EnumMember(Value = "Action Movie")]
+        Action,
+        [EnumMember(Value = "Horror Movie")]
+        Horror,
+        [EnumMember(Value = "Comedy Movie")]
+        Comedy,
+        [EnumMember(Value = "Drama Movie")]
+        Drama,
+        [EnumMember(Value = "Historic Movie")]
+        Historic,
+        [EnumMember(Value = "Classic Movie")]
+        Classic,
+        [EnumMember(Value = "TrueStory Movie")]
+        TrueStory
     }
 }
