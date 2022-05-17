@@ -15619,8 +15619,43 @@
   "RootNamespace": "SFF_Komplettering",
   "Documents": [
     {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\FilmAssociations\\Edit.cshtml",
+      "TargetPath": "Pages\\FilmAssociations\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Rentals\\Create.cshtml",
+      "TargetPath": "Pages\\Rentals\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Reviews\\Create.cshtml",
+      "TargetPath": "Pages\\Reviews\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Rentals\\Details.cshtml",
+      "TargetPath": "Pages\\Rentals\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\FilmAssociations\\Details.cshtml",
+      "TargetPath": "Pages\\FilmAssociations\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "Pages\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\FilmAssociations\\Delete.cshtml",
+      "TargetPath": "Pages\\FilmAssociations\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15629,8 +15664,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "Pages\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Movies\\Details.cshtml",
+      "TargetPath": "Pages\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "Pages\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\FilmAssociations\\Index.cshtml",
+      "TargetPath": "Pages\\FilmAssociations\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15639,8 +15694,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Rentals\\Edit.cshtml",
+      "TargetPath": "Pages\\Rentals\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Rentals\\Delete.cshtml",
+      "TargetPath": "Pages\\Rentals\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Reviews\\Index.cshtml",
+      "TargetPath": "Pages\\Reviews\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15649,8 +15719,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Reviews\\Edit.cshtml",
+      "TargetPath": "Pages\\Reviews\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Rentals\\Index.cshtml",
+      "TargetPath": "Pages\\Rentals\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Reviews\\Delete.cshtml",
+      "TargetPath": "Pages\\Reviews\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Reviews\\Details.cshtml",
+      "TargetPath": "Pages\\Reviews\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "Pages\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\A.SkolaSUVNET20\\Kurser\\c# fördjupning\\c# fördjupning\\SFF_Komplettering\\Pages\\FilmAssociations\\Create.cshtml",
+      "TargetPath": "Pages\\FilmAssociations\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
