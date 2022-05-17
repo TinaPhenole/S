@@ -178,3 +178,8 @@ D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\
 D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Reviews\Details.cshtml.g.cs
 D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Reviews\Edit.cshtml.g.cs
 D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Reviews\Index.cshtml.g.cs
+D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Rentals\Create.cshtml.g.cs
+D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Rentals\Delete.cshtml.g.cs
+D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Rentals\Details.cshtml.g.cs
+D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Rentals\Edit.cshtml.g.cs
+D:\A.SkolaSUVNET20\Kurser\c# fördjupning\c# fördjupning\SFF_Komplettering\obj\Debug\net5.0\Razor\Pages\Rentals\Index.cshtml.g.cs
