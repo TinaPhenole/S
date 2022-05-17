@@ -1,0 +1,59 @@
+@page
+@model SFF_Komplettering.Pages.FilmAssociations.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>FilmAssociation</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FilmAssociation.Name" class="control-label"></label>
+                <input asp-for="FilmAssociation.Name" class="form-control" />
+                <span asp-validation-for="FilmAssociation.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmAssociation.Adress" class="control-label"></label>
+                <input asp-for="FilmAssociation.Adress" class="form-control" />
+                <span asp-validation-for="FilmAssociation.Adress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmAssociation.ZipCode" class="control-label"></label>
+                <input asp-for="FilmAssociation.ZipCode" class="form-control" />
+                <span asp-validation-for="FilmAssociation.ZipCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmAssociation.City" class="control-label"></label>
+                <input asp-for="FilmAssociation.City" class="form-control" />
+                <span asp-validation-for="FilmAssociation.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmAssociation.Email" class="control-label"></label>
+                <input asp-for="FilmAssociation.Email" class="form-control" />
+                <span asp-validation-for="FilmAssociation.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilmAssociation.Phone" class="control-label"></label>
+                <input asp-for="FilmAssociation.Phone" class="form-control" />
+                <span asp-validation-for="FilmAssociation.Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
